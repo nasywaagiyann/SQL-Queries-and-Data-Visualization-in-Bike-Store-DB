@@ -18,7 +18,7 @@ The following tables are included:
 * `customers`
 * `stocks`
 
-## 🔧 Technologies
+## 🔧 Tools
 
 * Python (Pandas, NumPy, Matplotlib)
 * SQLite (via `sqlite3`)
